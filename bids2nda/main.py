@@ -136,6 +136,7 @@ def run(args):
                            #"MR structural(FSPGR)",
                            "T2w": "MR structural (T2)",
                            "FLASH": "MR structural (FLASH)",
+                           "FLAIR": "MR: FLAIR",
                            #PET;
                             #ASL;
                             #microscopy;
